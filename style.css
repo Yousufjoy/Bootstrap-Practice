@@ -1,0 +1,27 @@
+.my-link-style:hover {
+  text-decoration: underline;
+}
+
+.myct:hover {
+  background-color: antiquewhite;
+}
+
+#feedback {
+  background-color: #a8a0d4;
+  padding: 7% 10%;
+}
+
+.hr-style {
+  border: 5px solid black;
+  border-bottom: none;
+}
+
+.carousel-item {
+  padding: 5% 15%;
+  text-align: center;
+  font-style: italic;
+}
+
+.carousel-indicators {
+  bottom: -20px;
+}
